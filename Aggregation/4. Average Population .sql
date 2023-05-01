@@ -1,0 +1,3 @@
+# Author: imprits
+SELECT FLOOR(AVG(POPULATION))
+FROM CITY
